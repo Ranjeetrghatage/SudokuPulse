@@ -1,0 +1,2 @@
+--- Grid gets updated with the random solved Sudoku Puzzle every 1 second. 
+--- Implemented a timer to display the current time and time left for the day.
